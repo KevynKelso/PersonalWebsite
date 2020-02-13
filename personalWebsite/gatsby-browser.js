@@ -1,0 +1,1 @@
+import './src/global-scss/_images.scss';
